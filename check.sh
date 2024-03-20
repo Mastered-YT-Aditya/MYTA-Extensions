@@ -1,7 +1,10 @@
 #!/bin/bash
-if [ -e CommentPlus.js ]
+
+
+
+if [ -e https://mastered-yt-aditya.github.io/MYTA-Extensions/CommentPlus.js ]
 then
-    echo "ok"
+    echo "File exists"
 else
-    echo "nok"
+    echo "File not exists"
 fi
