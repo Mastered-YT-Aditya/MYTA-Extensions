@@ -2,7 +2,8 @@
 // ID: mytacomments
 // Description: More Comment Blocks.
 // By: Mastered YT Aditya <https://mytaditya.rf.gd/> 
-// Original: LilyMakesThings <https://scratch.mit.edu/users/LilyMakesThings/>
+// By: LilyMakesThings <https://scratch.mit.edu/users/LilyMakesThings/>
+// License: MIT AND LGPL-3.0
 
 (function (Scratch) {
   "use strict";
