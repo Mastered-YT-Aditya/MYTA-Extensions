@@ -1,6 +1,6 @@
 // Name: Comment Plus
 // ID: mytacomments
-// Description: More Comment Blocks.
+// Description: More comment blocks.
 // By: Mastered YT Aditya <https://mytaditya.rf.gd/> 
 // By: LilyMakesThings <https://scratch.mit.edu/users/LilyMakesThings/>
 // License: MIT AND LGPL-3.0
