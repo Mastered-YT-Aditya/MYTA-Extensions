@@ -1,7 +1,7 @@
 // Name: Comment Plus
 // ID: mytacomments
 // Description: More Comment Blocks.
-// By: Mastered YT Aditya <https://mastered-yt-aditya.github.io/> 
+// By: Mastered YT Aditya <https://mytaditya.rf.gd/> 
 // Original: LilyMakesThings <https://scratch.mit.edu/users/LilyMakesThings/>
 
 (function (Scratch) {
